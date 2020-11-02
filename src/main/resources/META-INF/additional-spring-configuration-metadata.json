@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.swagger-ui",
+      "type": "java.lang.String",
+      "description": "Description for spring.swagger-ui."
+    },
+    {
+      "name": "spring.data.elasticsearch",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.elasticsearch."
+    }
+  ] }
